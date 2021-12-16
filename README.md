@@ -1,24 +1,24 @@
 # Compiler-Design-Lab
-This repository contains problems from **Compiler Design Lab**.
-Each Lab has a doc in it, a self explanatory report of format:
-1. Aim
-2. Procedure/Explanation
-3. Code
-4. Input/Output Screen shot 
-5. Inference
-And the lex code file is also uploaded seperately.
-
-**LAB-1**
-
-**1a :** 
-Write a program for lex/flex scanner generator to identify valid identifiers.
-input  : a string
-output : valid/invalid
-**1b :**
-Write a program for lex/flex scanner generator to count the number of vowels or consonants.
-input  : a string
-output : number of vowels in the string is -----, number of consonants in the string is -----
-
+This repository contains problems from **Compiler Design Lab**.  
+Each Lab has a doc in it, a self explanatory report of format:  
+1. Aim  
+2. Procedure/Explanation  
+3. Code  
+4. Input/Output Screen shot   
+5. Inference  
+And the lex code file is also uploaded seperately.  
+  
+**LAB-1**  
+  
+**1a :**   
+Write a program for lex/flex scanner generator to identify valid identifiers.  
+input  : a string  
+output : valid/invalid  
+**1b :**  
+Write a program for lex/flex scanner generator to count the number of vowels or consonants.  
+input  : a string  
+output : number of vowels in the string is -----, number of consonants in the string is -----  
+  
 **LAB-2**
 
 **2a :**
